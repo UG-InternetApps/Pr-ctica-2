@@ -13,7 +13,7 @@ El objetivo de esta práctica es que el alumno aplique los conocimientos obtenid
   - Eliminar un empleado específico. 
 - El modelo de  datos del Empleado se deja a consideración del Alumno.
 - Se deberá elaborar una interfaz en html y javascript (jQuery) que permita manipular el webservice.
-  - Se Tomará en cuenta el uso de `Angular.js`
+  - Se Tomará en cuenta el uso de `Angular.js` (No es obligatorio el uso de este)
 - Se deberán subir a un repositorio privado de github.
 
 ## Instrucciones de entrega
